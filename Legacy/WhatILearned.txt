@@ -1,0 +1,37 @@
+What I learned!
+
+What did you change/enhance from part 1?
+	I wanted to add a bit more to my home page, so I did some digging around
+	and I found that Twitter has a really simply tool that allows you to create
+	a widget that can be embedded that will display a Twitter feed. So, my homepage
+	now displays my tweets.
+	I also wanted to play around some more with APIs and JS, so I added a page that
+	featured a map (courtesy of Google Maps). I did some research on the Google Maps
+	API website and w3schools and found some cool little things you can do to a map,
+	like adding a marker, animating it, and setting functions on it for clicks and such.
+	Thirdly, I know this bit didn't make me learn much, but I embedded a YouTube video
+	that is extremely informational and that everyone should watch. If you haven't seen
+	it around on the internets, you're welcome.
+	
+If there was a third part to the class project, what would you like to implement?
+	Hmm. Nothing I can think of. This project pretty much hit my goals for
+	what I wanted to learn about basic web development!
+	
+What did you learn between part 1 and part 2?
+	I think I learned a lot concerning JavaScript and how you can use it to make
+	your site a lot more interesting. Along with JS, AJAX, DOM, and JQuery were
+	things that I had heard about in passing but had never learned specifically about.
+	It was really interesting learning all of the components that are behind the 
+	operation of a website. It's simpler and more complex than I had previously thought!
+	
+What did you like about this project? How could it have been better?
+	I really enjoyed the freedom we had to implement this project. However, sometimes
+	that freedom made it difficult to figure out exactly what we had to do to meet
+	the requirements. It was hard to figure out if it was "enough". I think one of my
+	favorite parts was being able to play around with APIs. APIs allowed me to do so much
+	more than I could have possibly done by myself, especially at my level. On a large 
+	scale, APIs are like really big Legos that you can stick onto your Lego spaceship
+	to give it all sorts of new features. But then you realize that that giant Lego is 
+	actually comprised of millions of little tiny Legos that you can put together in all
+	sorts of different configurations and make them in exactly the shape you want. They're
+	awesome. Making websites is fun and pretty cool!
