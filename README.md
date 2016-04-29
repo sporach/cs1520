@@ -1,4 +1,4 @@
-# cs1520website
+# cs1520
 
 CS1520, University of Pittsburgh, Spring 2016.
 Sam Porach, slp79@pitt.edu.
