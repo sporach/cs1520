@@ -1,6 +1,7 @@
 # cs1520website
 
 CS1520, University of Pittsburgh, Spring 2016.
+Sam Porach, slp79@pitt.edu.
 
 Yooooo. Here's the repo for my CS1520 project part 2 submission.
 
